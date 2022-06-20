@@ -9,7 +9,7 @@
 </head>
 <!-- the body section -->
 <body>
-        <button>
-			<a href="../allergy/index.php">Next</a>
-        </button>
+        
+			<a href="../allergy/index.php" id = "next">Next</a>
+        
 </header>

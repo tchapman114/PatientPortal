@@ -7,7 +7,7 @@
  
     <meta charset="UTF-8">
  
-    <title>Add Address Record Form</title>
+    <title>Add Insurance Record Form</title>
  
     </head>
  
@@ -15,9 +15,11 @@
  
     <form action="add_insurance.php" method="post">
         <p>
+            <br>
             <label for="insurance">Insurance Provider:</label>
             <input type="text" name="insurance" id="insurance">
-        </p> 
+        </p>
+        <br> 
         <input type="submit" name="submit" value="Submit">
  
     </form>

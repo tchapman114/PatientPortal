@@ -11,7 +11,7 @@ if($_REQUEST['submit']){
      
     if($result){
     include '../view/header.php';
-    echo "New Record Inserted Successfully!";
+    echo "New Record Inserted Successfully! Go back to Home";
 
     }else{
     echo "Error, Record not inserted.";

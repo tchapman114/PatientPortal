@@ -3,9 +3,9 @@
 
 <!-- the head section -->
 <head>
-    <title>Patient Tracker</title>
+    <title id="title">Patient Tracker</title>
     <link rel="stylesheet" type="text/css"
-          href="../style/patient.css">
+          href="../Style/patient.css">
 </head>
 <!-- the body section -->
 <body>
@@ -13,7 +13,7 @@
     <h1>Patient Tracker</h1>
     <nav>
         <ul>
-			<a href="../home/index.php">Home</a>
+			<a href="../home/index.php" id="home">Home</a>
         </ul>
     </nav>
 </header>

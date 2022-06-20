@@ -3,14 +3,16 @@
     <html lang="en">
     <head>
     <meta charset="UTF-8">
-    <title>Add Aleergy Record Form</title>
+    <title>Add Allergy Record Form</title>
     </head>
     <body>
     <form action="add_allergy.php" method="post">
+        <br>
         <p>
-            <label for="allergy">Allergy names:</label>
+            <label for="allergy">Allergies:</label>
             <input type="text" name="allergy" id="allergy">
         </p> 
+        <br>
         <input type="submit" name="submit" value="Submit">
     </form>
  
