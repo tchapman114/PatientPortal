@@ -10,4 +10,5 @@ to add, update, delete, and retrieve patient information. Users are first prompt
 
 # SQL Database: 
 ERD of Patient Portal: 
-![image](https://user-images.githubusercontent.com/101578754/180503771-57d0e73f-3555-4f62-94a2-716b00630b69.pn
+
+![image-20220523-172800 (1)](https://user-images.githubusercontent.com/101578754/180505493-171619f3-2b4f-4260-b5fc-6e1a1eeb5652.png)
